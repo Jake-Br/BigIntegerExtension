@@ -1,0 +1,16 @@
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/BigIntegerExtension.csprojAssemblyReference.cache
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/BigIntegerExtension.GeneratedMSBuildEditorConfig.editorconfig
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/BigIntegerExtension.AssemblyInfoInputs.cache
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/BigIntegerExtension.AssemblyInfo.cs
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/BigIntegerExtension.csproj.CoreCompileInputs.cache
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/bin/Debug/net5.0/BigIntegerExtension
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/bin/Debug/net5.0/BigIntegerExtension.deps.json
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/bin/Debug/net5.0/BigIntegerExtension.runtimeconfig.json
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/bin/Debug/net5.0/BigIntegerExtension.runtimeconfig.dev.json
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/bin/Debug/net5.0/BigIntegerExtension.dll
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/bin/Debug/net5.0/ref/BigIntegerExtension.dll
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/bin/Debug/net5.0/BigIntegerExtension.pdb
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/BigIntegerExtension.dll
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/ref/BigIntegerExtension.dll
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/BigIntegerExtension.pdb
+/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/Debug/net5.0/BigIntegerExtension.genruntimeconfig.cache
