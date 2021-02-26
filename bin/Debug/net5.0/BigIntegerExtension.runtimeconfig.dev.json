@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/bharathwaj/.dotnet/store/|arch|/|tfm|",
-      "/home/bharathwaj/.nuget/packages"
+      "C:\\Users\\coolj\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\coolj\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet"
     ]
   }
 }

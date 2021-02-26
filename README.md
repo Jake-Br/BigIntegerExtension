@@ -1,6 +1,5 @@
-This project illustrates extending BigInteger to include -infinity, infinity and NaN.
-It is for illustrative purposes, we don't claim to implement an all encompassing 
-arbitrary precision integer arithmetic engine.
+This project illustrates extending BigInteger to include functionality for Sine
+operations to be performed with BigIntegers.
 
 We use .NET 5.0 BigInteger struct, so you need the .NET 5.0 SDK.  This project has been
 successfully built on Linux using the dotnet binary installed MANUALLY and Visual Studio Code.  

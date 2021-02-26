@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/BigIntegerExtension.csproj": {}
+    "C:\\Users\\coolj\\Documents\\CSC287\\BigIntegerExtension\\BigIntegerExtension.csproj": {}
   },
   "projects": {
-    "/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/BigIntegerExtension.csproj": {
+    "C:\\Users\\coolj\\Documents\\CSC287\\BigIntegerExtension\\BigIntegerExtension.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/BigIntegerExtension.csproj",
+        "projectUniqueName": "C:\\Users\\coolj\\Documents\\CSC287\\BigIntegerExtension\\BigIntegerExtension.csproj",
         "projectName": "BigIntegerExtension",
-        "projectPath": "/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/BigIntegerExtension.csproj",
-        "packagesPath": "/home/bharathwaj/.nuget/packages/",
-        "outputPath": "/home/bharathwaj/Research/Education/2021/BunkerHillCommunityCollege/csc287_OOPL_Csharp_Python/Projects/BigIntegerExtension/obj/",
+        "projectPath": "C:\\Users\\coolj\\Documents\\CSC287\\BigIntegerExtension\\BigIntegerExtension.csproj",
+        "packagesPath": "C:\\Users\\coolj\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\coolj\\Documents\\CSC287\\BigIntegerExtension\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
         "configFilePaths": [
-          "/home/bharathwaj/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\coolj\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/home/bharathwaj/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
